@@ -1,0 +1,40 @@
+ELEMENTOS:
+
+* Entidades Externas:
+Cliente
+Agente de Reserva
+
+* Almacenes:
+- BD Vuelos: info. sobre vuelos disponibles
+- Datos de pasajeros
+- Registro de pagos.
+- Registro de reservas
+
+* Procesos:
+- Petición de información de vuelos diponibles
+- Seleccionar vuelo
+- Solicitud de informacion de pasajeros
+- Realizar pago
+- Confirmar reserva y actualizar registro de reservas
+
+Opcionales (posibles mejoras)...
+- Pedir datos de preferencias de vuelo (inicio-destino). Y de ahí ver que vuelos disponibles hay en base a esa preferencia.
+- Comprobación de datos de personas con el Sistema Judicial
+- Cuentas personales de clientes.
+
+PREGUNTAS:
+¿Qué es lo que el cliente o agente debe hacer para reservar un vuelo?
+¿Qué tipo de datos pide y utiliza (y cuándo las utiliza) la aerolínea?
+
+¿Utilizan un registro de búsqueda de vuelos?
+¿Cada cuánto tiempo se actualiza la base de datos de los vuelos disponibles?
+¿Qué medidas utilizan para comprobar pagos?
+¿Con cuales entidades de Bancos trabajan?
+¿Se hace alguna comprobación de datos de los pasajeros con la base de datos del Sistema Judicial?
+
+
+
+
+
+
+
