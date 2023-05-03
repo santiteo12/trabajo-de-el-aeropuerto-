@@ -1,0 +1,10 @@
+punto 7
+
+en nuestro diagrama de flujo de datos primero el cliente o agente de reserva que en este caso los vamos a tomar como el usuario nos dará una especificación de que vuelo desea y en que días 
+quiere viajar para realizar el filtrado y mostrarle una información más exacta de lo que busca luego que seleccione el vuelo va querer.
+Luego de esto el usuario tendrá que ingresar sus datos y se enviaran a un proceso que va a comparar si estos datos están cargados en algún usuario si lo están lo va a pasar directo a la parte de pagos y sino va a tener que crear un usuario y luego este usuario va a ser guardado en la base de datos de usuarios.
+Con respecto a los pagos luego de comprobar que el cliente tenga sus datos cargados va a realizar el pago para la reserva de los vuelos con esta acción se le dará un comprobante de pago al 
+cliente se mandara información a la base de datos de vuelos para que se actualice y muestre siempre que lugares en los vuelos quedan disponibles, el pago de esta reserva se va a dar a la 
+aerolínea y luego se va a actualizar una lista de el historial de los vuelos comprados que tener ese cliente .
+
+
