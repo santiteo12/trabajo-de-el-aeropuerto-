@@ -26,11 +26,13 @@ PREGUNTAS:
 ¿Qué es lo que el cliente o agente debe hacer para reservar un vuelo?
 ¿Qué tipo de datos pide y utiliza (y cuándo las utiliza) la aerolínea?
 
-¿Utilizan un registro de búsqueda de vuelos?
+¿Utilizan un registro de búsqueda de vuelos?y que filtros utilizan ?
 ¿Cada cuánto tiempo se actualiza la base de datos de los vuelos disponibles?
 ¿Qué medidas utilizan para comprobar pagos?
 ¿Con cuales entidades de Bancos trabajan?
 ¿Se hace alguna comprobación de datos de los pasajeros con la base de datos del Sistema Judicial?
+
+La estructura de preguntas que utilizamos es de embudo  porque nos parece que lo mas inteligente es que el entrevistador hiciera una pregunta general para tener un panorama de como el cliente  va a hacer el proceso  luego ir pasando a preguntas mas especificas para tener informacon mas exacta de que metodos utilizan 
 
 
 
