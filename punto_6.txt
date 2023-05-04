@@ -1,0 +1,10 @@
+Registro de cuenta para usuarios: Este almacén lo agregamos porque nos pareció importante, para facilitar la compra de boletos/pasajes y 
+almacenar los datos del pasajero, para que cuando por 2da vez quiera viajar y volver a comprar su boleto, ya estén sus datos registrados.
+Proceso de pagos y reservas: Este proceso fue explotado porque es importante que el proceso de pagos se comunique con la entidad 
+correspondiente de la tarjeta con la que se solicita realizar el pago y luego ese pago se envía a la entidad de la aerolínea que sería el dinero.
+Se podría decir que creamos dos procesos en uno en donde luego de realizar el pago se crea la reserva y envía distintos comprobantes a base
+de datos de vuelos, registro de reservas, base de datos de cuentas de clientes y principalmente al cliente ya que es indispensable que el 
+mimo tenga su propio comprobante.
+Proceso de Aerolínea: Este es el encargado de recibir solo los pagos (dinero) es primordial ya que solo cumple una sola función y es por 
+eso que nos pareció muy importante.
+
